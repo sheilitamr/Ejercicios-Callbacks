@@ -1,0 +1,10 @@
+//forEach
+//Map - Hay que poner return
+//Filter - Devuelve un array con los elementos que cumplan la condición
+//Find - Devuelve la primera coincidencia
+//Every - dará true o false en función si se cumple la condición. Si hay uno que no coincida dará false
+//Some - Dará true o false en función si se cumple la condición. En este caso es si alguno coincide.
+
+
+//Sort
+//Reduce
